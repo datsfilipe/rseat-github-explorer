@@ -2,6 +2,8 @@
 
 ### [Chapter 01] - React JS fundamentals
 
+**Subjects**
+
   - Babel Js
   - Webpack
   - React components
